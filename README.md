@@ -10,5 +10,5 @@ Professional portfolio showcasing 3 complete fullstack projects built with Java,
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/edisonmonsalve](https://linkedin.com)
+- LinkedIn: [linkedin.com/in/edisonmonsalve](linkedin.com/in/edisonmonsalve)
 - GitHub: [@edisonmonsalve](https://github.com/edisonmonsalve)
