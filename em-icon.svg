@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="11.977" y1="-32.461" x2="11.977" y2="32.461" id="gradient-0">
+      <stop offset="0" style="stop-color: rgb(27, 139, 75)"/>
+      <stop offset="1" style="stop-color: rgb(0% 33.83% 11.559%)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="11" y1="-8" x2="11" y2="1" id="gradient-2" gradientTransform="matrix(0.020733, -1.055356, 2.847568, 0.062334, 3.800729, 14.569479)">
+      <stop offset="0" style="stop-color: rgb(27, 139, 75)"/>
+      <stop offset="1" style="stop-color: rgb(0% 33.83% 11.559%)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="11.723" y1="20.282" x2="11.723" y2="28.117" id="gradient-3" gradientTransform="matrix(-0.00054, 1.173357, -3.500844, -0.001796, 70.975264, -35.752914)">
+      <stop offset="0" style="stop-color: rgb(27, 139, 75)"/>
+      <stop offset="1" style="stop-color: rgb(0% 33.83% 11.559%)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="2.885" y1="-33.165" x2="2.885" y2="32.777" id="gradient-4" gradientTransform="matrix(1, 0, 0, 0.957448, -5.769009, 4.388065)">
+      <stop offset="0" style="stop-color: rgb(27, 139, 75)"/>
+      <stop offset="1" style="stop-color: rgb(0% 33.83% 11.559%)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="0.383" y1="-33.165" x2="0.383" y2="30.835" id="gradient-5" gradientTransform="matrix(1, 0, 0, 1.115597, -1.225798, 2.673764)">
+      <stop offset="0" style="stop-color: rgb(27, 139, 75)"/>
+      <stop offset="1" style="stop-color: rgb(0% 33.83% 11.559%)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-14.053" y1="20.67" x2="-14.053" y2="29.67" id="gradient-1" gradientTransform="matrix(-0.028737, -0.923283, 2.18638, -0.075825, -67.19418, 22.36318)">
+      <stop offset="0" style="stop-color: rgb(27, 139, 75)"/>
+      <stop offset="1" style="stop-color: rgb(0% 33.83% 11.559%)"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100.345" cy="100" r="100" opacity="0.05" style="stroke-linecap: round; stroke-miterlimit: 1; fill: rgb(27, 139, 75);"/>
+  <g transform="matrix(1, 0, 0, 1, 101.089262, 104.901686)">
+    <path d="M -76.26 -25.054 L -61.784 -4.787 L -76.26 15.48" stroke="#1B8B4B" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round" style="opacity: 0.8;"/>
+    <g transform="matrix(1.528103, 0, 0, 1.447633, -48.150485, -3.035441)" style="">
+      <rect x="-22.847" y="28.42" width="21.878" height="7.343" style="fill-rule: evenodd; paint-order: fill; fill: url(&quot;#gradient-1&quot;); transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(-1, 0, 0, -1, 23.816002, -64.182999)" rx="3.671" ry="3.671"/>
+      <rect y="-1" width="22" height="9" rx="4" style="fill-rule: evenodd; paint-order: fill; fill: url(&quot;#gradient-2&quot;); transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(-1, 0, 0, -1, 22, -7)" x="-22"/>
+      <rect y="-27.227" width="25.199" height="9.742" rx="4" style="fill-rule: evenodd; paint-order: fill; fill: url(&quot;#gradient-3&quot;); transform-box: fill-box; transform-origin: 50% 50%;" x="-24.262" transform="matrix(-1, 0, 0, -1, 23.324999, 44.712002)"/>
+      <rect y="-27.366" width="7.893" height="63.136" rx="4" style="fill-rule: evenodd; paint-order: fill; fill: url(&quot;#gradient-4&quot;); transform-box: fill-box; transform-origin: 50% 50%;" x="-6.831" transform="matrix(-1, 0, 0, -1, 5.769, -8.403999)"/>
+    </g>
+    <g style="" transform="matrix(1.28242, 0, 0, 1.28242, 0.986212, -7.677906)">
+      <rect x="-5.178" y="-34.326" width="8.67" height="71.399" rx="4" style="fill: url(&quot;#gradient-5&quot;); transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(-1, 0, 0, -1, 1.686, -2.747002)"/>
+      <g transform="matrix(1, 0, 0, 1, 6.394783, -0.000013)">
+        <path d="M -4.513 -32.461 L 11.154 5 L 28.466 -31.539 L 27.043 32.461" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none" style="stroke: url(&quot;#gradient-0&quot;);"/>
+      </g>
+    </g>
+    <path d="M 62.304 -21.804 L 76.78 -1.537 L 62.304 18.73" stroke="#1B8B4B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" style="stroke-width: 9; transform-box: fill-box; transform-origin: 50% 50%; opacity: 0.8;" transform="matrix(-1, 0, 0, -1, -0.000002, 0)" fill="none"/>
+  </g>
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#1B8B4B" stroke-width="2.5"/>
+  <circle cx="100" cy="28" r="2" fill="#1B8B4B" opacity="0.25"/>
+  <circle cx="100" cy="172" r="2" fill="#1B8B4B" opacity="0.25"/>
+</svg>
