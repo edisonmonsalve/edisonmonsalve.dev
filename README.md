@@ -1,6 +1,7 @@
 # Edison Monsalve — Full Stack Developer
 
 Professional portfolio showcasing 3 complete fullstack projects built with Java, Spring Boot, React, and more.
+<img width="1348" height="662" alt="image" src="https://github.com/user-attachments/assets/d45499c4-b46e-4983-9572-711cb7033fcd" />
 
 ## Projects
 
