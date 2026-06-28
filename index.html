@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Edison Monsalve — Full Stack Developer">
+    <title>Edison Monsalve — Full Stack Developer</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- NAVBAR -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">Edison Monsalve</div>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- HERO SECTION -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <p class="hero-subtitle">Full Stack Developer</p>
+            <h1 class="hero-title">Edison Monsalve</h1>
+            <p class="hero-tech">Java • Spring Boot • React • JavaScript</p>
+            <p class="hero-description">
+                I build complete applications from database to frontend. Technologist in Software Analysis & Development.
+            </p>
+            <div class="hero-buttons">
+                <a href="#projects" class="btn btn-primary">View My Work</a>
+                <a href="#contact" class="btn btn-secondary">Get in Touch</a>
+            </div>
+            <div class="social-icons">
+                <a href="https://github.com/edisonmonsalve" target="_blank"><i class="fab fa-github"></i></a>
+                <a href="https://linkedin.com/in/edisonmonsalve" target="_blank"><i class="fab fa-linkedin"></i></a>
+                <a href="mailto:edisonmonsalve21@gmail.com"><i class="fas fa-envelope"></i></a>
+                <a href="https://wa.me/573145634068" target="_blank"><i class="fab fa-whatsapp"></i></a>
+            </div>
+        </div>
+    </section>
+
+    <!-- PROJECTS SECTION -->
+    <section id="projects" class="projects">
+        <div class="container">
+            <h2 class="section-title">Projects</h2>
+            <p class="section-subtitle">Complete fullstack applications built from scratch</p>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <h3>StockFlow — Phase 1</h3>
+                    <span class="badge">Java Console</span>
+                </div>
+                <p class="project-desc">Complete inventory management console application in pure Java.</p>
+                <div class="project-tech">
+                    <span class="tech-tag">Java 17</span>
+                    <span class="tech-tag">OOP</span>
+                    <span class="tech-tag">Layered Architecture</span>
+                </div>
+                <ul class="project-features">
+                    <li>✅ Full CRUD operations</li>
+                    <li>✅ Product search (code & name)</li>
+                    <li>✅ Low stock alerts</li>
+                    <li>✅ Inventory reports</li>
+                </ul>
+                <div class="project-links">
+                    <a href="https://github.com/edisonmonsalve/stockflow" target="_blank" class="link-btn">
+                        <i class="fab fa-github"></i> View Code
+                    </a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <div class="project-header">
+                    <h3>StockFlow API — Phase 2</h3>
+                    <span class="badge">Spring Boot REST</span>
+                </div>
+                <p class="project-desc">Professional REST API with Spring Boot, JPA/Hibernate, and H2 Database.</p>
+                <div class="project-tech">
+                    <span class="tech-tag">Spring Boot 3.0</span>
+                    <span class="tech-tag">JPA/Hibernate</span>
+                    <span class="tech-tag">H2 Database</span>
+                </div>
+                <ul class="project-features">
+                    <li>✅ 7 RESTful endpoints</li>
+                    <li>✅ CORS enabled</li>
+                    <li>✅ Database persistence</li>
+                    <li>✅ Complete documentation</li>
+                </ul>
+                <div class="project-links">
+                    <a href="https://github.com/edisonmonsalve/stockflow-api" target="_blank" class="link-btn">
+                        <i class="fab fa-github"></i> View Code
+                    </a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <div class="project-header">
+                    <h3>StockFlow Web — Phase 3</h3>
+                    <span class="badge">React Frontend</span>
+                </div>
+                <p class="project-desc">Modern React frontend with Tailwind CSS. Fully responsive and deployed on Vercel.</p>
+                <div class="project-tech">
+                    <span class="tech-tag">React 18</span>
+                    <span class="tech-tag">Vite</span>
+                    <span class="tech-tag">Tailwind CSS</span>
+                </div>
+                <ul class="project-features">
+                    <li>✅ Responsive design</li>
+                    <li>✅ Real-time product list</li>
+                    <li>✅ Low stock alerts</li>
+                    <li>✅ Modern UI</li>
+                </ul>
+                <div class="project-links">
+                    <a href="https://github.com/edisonmonsalve/stockflow-web" target="_blank" class="link-btn">
+                        <i class="fab fa-github"></i> View Code
+                    </a>
+                    <a href="https://stockflow-web-three.vercel.app/" target="_blank" class="link-btn">
+                        <i class="fas fa-globe"></i> Live Demo
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SKILLS SECTION -->
+    <section id="skills" class="skills">
+        <div class="container">
+            <h2 class="section-title">Technical Skills</h2>
+            
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3>Backend</h3>
+                    <div class="skill-list">
+                        <span class="skill-item">Java 17+</span>
+                        <span class="skill-item">Spring Boot</span>
+                        <span class="skill-item">JPA/Hibernate</span>
+                        <span class="skill-item">Maven</span>
+                        <span class="skill-item">REST APIs</span>
+                        <span class="skill-item">H2 Database</span>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>Frontend</h3>
+                    <div class="skill-list">
+                        <span class="skill-item">React 18</span>
+                        <span class="skill-item">JavaScript</span>
+                        <span class="skill-item">Tailwind CSS</span>
+                        <span class="skill-item">Vite</span>
+                        <span class="skill-item">HTML5</span>
+                        <span class="skill-item">CSS3</span>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>Tools</h3>
+                    <div class="skill-list">
+                        <span class="skill-item">Git/GitHub</span>
+                        <span class="skill-item">IntelliJ IDEA</span>
+                        <span class="skill-item">VS Code</span>
+                        <span class="skill-item">Postman</span>
+                        <span class="skill-item">Linux/Bash</span>
+                        <span class="skill-item">npm</span>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>Other</h3>
+                    <div class="skill-list">
+                        <span class="skill-item">Python</span>
+                        <span class="skill-item">SQL</span>
+                        <span class="skill-item">OOP</span>
+                        <span class="skill-item">Design Patterns</span>
+                        <span class="skill-item">Agile</span>
+                        <span class="skill-item">Responsive Design</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTACT SECTION -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">Get In Touch</h2>
+            <p class="section-subtitle">Let's build something amazing together</p>
+            
+            <div class="contact-grid">
+                <div class="contact-card">
+                    <i class="fas fa-envelope"></i>
+                    <h3>Email</h3>
+                    <a href="mailto:edisonmonsalve21@gmail.com">edisonmonsalve21@gmail.com</a>
+                </div>
+                <div class="contact-card">
+                    <i class="fab fa-github"></i>
+                    <h3>GitHub</h3>
+                    <a href="https://github.com/edisonmonsalve" target="_blank">@edisonmonsalve</a>
+                </div>
+                <div class="contact-card">
+                    <i class="fab fa-linkedin"></i>
+                    <h3>LinkedIn</h3>
+                    <a href="https://linkedin.com/in/edisonmonsalve" target="_blank">Edison Monsalve</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <p>&copy; 2026 Edison Monsalve. Technologist in Software Analysis & Development — SENA</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
